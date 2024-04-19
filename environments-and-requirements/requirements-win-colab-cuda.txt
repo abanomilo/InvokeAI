@@ -3,6 +3,6 @@
 --extra-index-url https://download.pytorch.org/whl/cu116 --trusted-host https://download.pytorch.org
 gfpgan
 basicsr
-torch==1.12.1
+torch==2.2.0
 torchvision==0.13.1
 -e .
