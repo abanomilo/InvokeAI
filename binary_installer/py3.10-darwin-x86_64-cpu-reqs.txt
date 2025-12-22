@@ -301,7 +301,7 @@ facexlib==0.2.5 \
     # via
     #   gfpgan
     #   realesrgan
-filelock==3.8.0 \
+filelock==3.20.1 \
     --hash=sha256:55447caa666f2198c5b6b13a26d2084d26fa5b115c00d065664b2124680c4edc \
     --hash=sha256:617eb4e5eedc82fc5f47b6d61e4d11cb837c56cb4544e39081099fa17ad109d4
     # via
@@ -1826,7 +1826,7 @@ toolz==0.12.0 \
     --hash=sha256:2059bd4148deb1884bb0eb770a3cde70e7f954cfbbdc2285f1f2de01fd21eb6f \
     --hash=sha256:88c570861c440ee3f2f6037c4654613228ff40c93a6c25e0eba70d17282c6194
     # via altair
-torch==1.12.0 ; platform_system == "Darwin" \
+torch==2.2.0 ; platform_system == "Darwin" \
     --hash=sha256:0399746f83b4541bcb5b219a18dbe8cade760aba1c660d2748a38c6dc338ebc7 \
     --hash=sha256:0986685f2ec8b7c4d3593e8cfe96be85d462943f1a8f54112fc48d4d9fbbe903 \
     --hash=sha256:13c7cca6b2ea3704d775444f02af53c5f072d145247e17b8cd7813ac57869f03 \
